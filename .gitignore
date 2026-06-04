@@ -1,0 +1,37 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Data (cache and snapshots are large / ephemeral; keep the directory stubs)
+data/cache/
+data/snapshots/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+.skill-runs/
+
+.env*
+
+# Local-only docs and notes (not published)
+docs/

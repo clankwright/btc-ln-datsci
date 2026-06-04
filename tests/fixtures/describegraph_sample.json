@@ -1,0 +1,4706 @@
+{
+  "nodes": [
+    {
+      "pub_key": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "alias": "bfx-lnd1"
+    },
+    {
+      "pub_key": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "alias": "Kraken \ud83d\udc19\u26a1"
+    },
+    {
+      "pub_key": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "alias": "kappa"
+    },
+    {
+      "pub_key": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "alias": "WalletOfSatoshi.com"
+    },
+    {
+      "pub_key": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "alias": "bfx-lnd0"
+    },
+    {
+      "pub_key": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "alias": "Sunny Sarah \u2600\ufe0f"
+    },
+    {
+      "pub_key": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "alias": "CoinGate"
+    },
+    {
+      "pub_key": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "alias": "okx"
+    },
+    {
+      "pub_key": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "alias": "Megalithic.me"
+    },
+    {
+      "pub_key": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "alias": "Babylon-4a"
+    },
+    {
+      "pub_key": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "alias": "Authenticity"
+    },
+    {
+      "pub_key": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "alias": "Boltz"
+    },
+    {
+      "pub_key": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "alias": "nicehash-ln1"
+    },
+    {
+      "pub_key": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "alias": "xmrk reloaded"
+    },
+    {
+      "pub_key": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "alias": "\ud83c\udde8\ud83c\uddedVix18"
+    },
+    {
+      "pub_key": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "alias": "ACINQ"
+    },
+    {
+      "pub_key": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "alias": "Strike"
+    },
+    {
+      "pub_key": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "alias": "cyberdyne.sh"
+    },
+    {
+      "pub_key": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "alias": "BCash_Is_Trash"
+    },
+    {
+      "pub_key": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "alias": "lnmarkets.com"
+    },
+    {
+      "pub_key": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "alias": "allNice | torq.co | second.tech"
+    },
+    {
+      "pub_key": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "alias": "gameb_1"
+    },
+    {
+      "pub_key": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "alias": "block-iad-1"
+    },
+    {
+      "pub_key": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "alias": "Play-asia.com"
+    },
+    {
+      "pub_key": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "alias": "1sats.com\u26a1\ufe0flsp.flashsats.xyz"
+    }
+  ],
+  "edges": [
+    {
+      "channel_id": "852861482917888001",
+      "short_id": "775673x1007x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "892785849701564416",
+      "short_id": "811984x2037x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "900659452377038848",
+      "short_id": "819145x648x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "936612383161909248",
+      "short_id": "851844x1689x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024887773672308737",
+      "short_id": "932130x1121x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025010918999326721",
+      "short_id": "932242x1498x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025322080787824641",
+      "short_id": "932525x1465x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026764640119291905",
+      "short_id": "933837x2622x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027877345823948800",
+      "short_id": "934849x1666x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028010386820825089",
+      "short_id": "934970x3038x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029026335480676352",
+      "short_id": "935894x1753x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029185764594286593",
+      "short_id": "936039x648x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035050559634931713",
+      "short_id": "941373x924x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "955264498407571456",
+      "short_id": "868808x1568x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1009228529149345792",
+      "short_id": "917888x2339x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028495271344406528",
+      "short_id": "935411x1447x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029026335479037952",
+      "short_id": "935894x1728x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024327022769537024",
+      "short_id": "931620x1539x0",
+      "chan_point": "",
+      "capacity": "400000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028010386821152768",
+      "short_id": "934970x3043x0",
+      "chan_point": "",
+      "capacity": "390000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031813597385981952",
+      "short_id": "938429x668x0",
+      "chan_point": "",
+      "capacity": "352311290",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "946495893187723265",
+      "short_id": "860833x1746x1",
+      "chan_point": "",
+      "capacity": "301000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "859429965398736897",
+      "short_id": "781647x1259x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026764640118702081",
+      "short_id": "933837x2613x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023799257209896961",
+      "short_id": "931140x1870x1",
+      "chan_point": "",
+      "capacity": "290000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "933004885514715136",
+      "short_id": "848563x1743x0",
+      "chan_point": "",
+      "capacity": "280000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020608474378272770",
+      "short_id": "928238x530x2",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1022460051945029633",
+      "short_id": "929922x310x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023579354788265985",
+      "short_id": "930940x404x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026987840822444034",
+      "short_id": "934040x222x2",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027787185837572096",
+      "short_id": "934767x1164x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028356732923215872",
+      "short_id": "935285x2117x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "925075207592673280",
+      "short_id": "841351x789x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020622768086974464",
+      "short_id": "928251x1408x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "994953569657290752",
+      "short_id": "904905x1902x0",
+      "chan_point": "",
+      "capacity": "190000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033048348941811712",
+      "short_id": "939552x635x0",
+      "chan_point": "",
+      "capacity": "169556357",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032509588325138433",
+      "short_id": "939062x1870x1",
+      "chan_point": "",
+      "capacity": "161433243",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023213217534705664",
+      "short_id": "930607x2212x0",
+      "chan_point": "",
+      "capacity": "160000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031813597385850880",
+      "short_id": "938429x666x0",
+      "chan_point": "",
+      "capacity": "158149802",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1004826084554702849",
+      "short_id": "913884x1774x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018081796719509505",
+      "short_id": "925940x1474x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033286943171084288",
+      "short_id": "939769x3779x0",
+      "chan_point": "",
+      "capacity": "143746267",
+      "node1_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028010386820169729",
+      "short_id": "934970x3028x1",
+      "chan_point": "",
+      "capacity": "140000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993602269921476608",
+      "short_id": "903676x2737x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026986741455716353",
+      "short_id": "934039x2433x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029186864296296448",
+      "short_id": "936040x3553x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033438675683639297",
+      "short_id": "939907x2374x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031954334919098368",
+      "short_id": "938557x1351x0",
+      "chan_point": "",
+      "capacity": "90000000",
+      "node1_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027773991702888448",
+      "short_id": "934755x1238x0",
+      "chan_point": "",
+      "capacity": "80000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "977719824307650561",
+      "short_id": "889231x439x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "988017850475610113",
+      "short_id": "898597x4440x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997075627063181314",
+      "short_id": "906835x1357x2",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "998142153355952131",
+      "short_id": "907805x1568x3",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034217129794994177",
+      "short_id": "940615x526x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "943423857597677568",
+      "short_id": "858039x189x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "943913140274397185",
+      "short_id": "858484x225x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032509588324286465",
+      "short_id": "939062x1857x1",
+      "chan_point": "",
+      "capacity": "34100203",
+      "node1_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "910688097982808065",
+      "short_id": "828266x1393x1",
+      "chan_point": "",
+      "capacity": "30000000",
+      "node1_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016038904054218753",
+      "short_id": "924082x545x1",
+      "chan_point": "",
+      "capacity": "225000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1015903664132784129",
+      "short_id": "923959x679x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032520583441547265",
+      "short_id": "939072x1872x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034597560931516417",
+      "short_id": "940961x2255x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1015903664132653057",
+      "short_id": "923959x677x1",
+      "chan_point": "",
+      "capacity": "170000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996703992215830529",
+      "short_id": "906497x2621x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011049320411824133",
+      "short_id": "919544x2444x5",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017112027504312321",
+      "short_id": "925058x2092x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033623393604009985",
+      "short_id": "940075x1869x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034334777552207873",
+      "short_id": "940722x725x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034734999757455361",
+      "short_id": "941086x309x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037196806476988417",
+      "short_id": "943325x3131x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "928256094806278147",
+      "short_id": "844244x1925x3",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018373167371124737",
+      "short_id": "926205x2546x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029101102345814017",
+      "short_id": "935962x2889x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "934776199088832515",
+      "short_id": "850174x6958x3",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "978113449525379073",
+      "short_id": "889589x1278x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997075627063181313",
+      "short_id": "906835x1357x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1010830517609431041",
+      "short_id": "919345x2620x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035829013862809601",
+      "short_id": "942081x854x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035832312402411520",
+      "short_id": "942084x926x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036239131765440513",
+      "short_id": "942454x1853x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036659145188900865",
+      "short_id": "942836x1573x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036731712869498881",
+      "short_id": "942902x248x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036735011554066433",
+      "short_id": "942905x2532x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036737210488586240",
+      "short_id": "942907x1178x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037148427787108352",
+      "short_id": "943281x411x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "904771626079944705",
+      "short_id": "822885x3929x1",
+      "chan_point": "",
+      "capacity": "40000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "772155130496155649",
+      "short_id": "702271x2232x1",
+      "chan_point": "",
+      "capacity": "17458523",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "835866331763769345",
+      "short_id": "760216x2173x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1001500061948182528",
+      "short_id": "910859x2804x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "937491992372707328",
+      "short_id": "852644x294x0",
+      "chan_point": "",
+      "capacity": "400000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "937501888145588224",
+      "short_id": "852653x2861x0",
+      "chan_point": "",
+      "capacity": "400000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025463917756612608",
+      "short_id": "932654x989x0",
+      "chan_point": "",
+      "capacity": "240000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "936346301442883585",
+      "short_id": "851602x3137x1",
+      "chan_point": "",
+      "capacity": "201000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "801443921157226496",
+      "short_id": "728909x1017x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "826621637890277381",
+      "short_id": "751808x538x5",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "947034653969088512",
+      "short_id": "861323x3024x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "985958464951222273",
+      "short_id": "896724x693x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034597560932499457",
+      "short_id": "940961x2270x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1004193865367617537",
+      "short_id": "913309x1757x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "935608529080745985",
+      "short_id": "850931x2223x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "963460258000535553",
+      "short_id": "876262x340x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011395666597904385",
+      "short_id": "919859x2800x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011733216721895425",
+      "short_id": "920166x3628x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011982805716893697",
+      "short_id": "920393x1423x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "937479897949470721",
+      "short_id": "852633x3417x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "817198823280803842",
+      "short_id": "743238x1157x2",
+      "chan_point": "",
+      "capacity": "60000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002652350073143296",
+      "short_id": "911907x1874x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023683808595804161",
+      "short_id": "931035x3500x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027380366501937153",
+      "short_id": "934397x655x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027758598645153793",
+      "short_id": "934741x2841x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028682188249694208",
+      "short_id": "935581x357x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028722870183854081",
+      "short_id": "935618x417x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028761353085059073",
+      "short_id": "935653x329x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029209953909211136",
+      "short_id": "936061x1550x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029264929436270593",
+      "short_id": "936111x721x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029583787858526209",
+      "short_id": "936401x1487x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029614574183448577",
+      "short_id": "936429x1477x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "946685009223417857",
+      "short_id": "861005x2291x1",
+      "chan_point": "",
+      "capacity": "16777215",
+      "node1_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "949806522612514816",
+      "short_id": "863844x427x0",
+      "chan_point": "",
+      "capacity": "16777215",
+      "node1_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "988404878383579144",
+      "short_id": "898949x1617x8",
+      "chan_point": "",
+      "capacity": "16777215",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011390168898863110",
+      "short_id": "919854x650x6",
+      "chan_point": "",
+      "capacity": "16000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018941614847033345",
+      "short_id": "926722x2002x1",
+      "chan_point": "",
+      "capacity": "16000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996760067329490945",
+      "short_id": "906548x2936x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016965792404275201",
+      "short_id": "924925x1275x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027333087648219140",
+      "short_id": "934354x2887x4",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "969628518374244352",
+      "short_id": "881872x2505x0",
+      "chan_point": "",
+      "capacity": "4000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027868549772083200",
+      "short_id": "934841x2294x0",
+      "chan_point": "",
+      "capacity": "3000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034808667176370176",
+      "short_id": "941153x2443x0",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "983328433257709569",
+      "short_id": "894332x2526x1",
+      "chan_point": "",
+      "capacity": "210000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028289662652973060",
+      "short_id": "935224x1187x4",
+      "chan_point": "",
+      "capacity": "210000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996881013485928448",
+      "short_id": "906658x1065x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030621726767972353",
+      "short_id": "937345x462x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "985496670073782273",
+      "short_id": "896304x788x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024471058797428737",
+      "short_id": "931751x1610x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1022905354271916032",
+      "short_id": "930327x2105x0",
+      "chan_point": "",
+      "capacity": "130000079",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "814320301900496896",
+      "short_id": "740620x2091x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "990718250873192449",
+      "short_id": "901053x1995x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1014999865634586625",
+      "short_id": "923137x1592x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017198888911241217",
+      "short_id": "925137x1914x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1013909150068113409",
+      "short_id": "922145x1108x1",
+      "chan_point": "",
+      "capacity": "50005050",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "977529608901099521",
+      "short_id": "889058x2042x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "999584712543436801",
+      "short_id": "909117x528x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016195034767491072",
+      "short_id": "924224x1493x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018630453101068289",
+      "short_id": "926439x2684x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018738205240131585",
+      "short_id": "926537x2677x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018775588513447936",
+      "short_id": "926571x815x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018953709405601792",
+      "short_id": "926733x944x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018961405946691584",
+      "short_id": "926740x329x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030897704192966656",
+      "short_id": "937596x560x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031054934349971456",
+      "short_id": "937739x472x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "925258826092576771",
+      "short_id": "841518x1675x3",
+      "chan_point": "",
+      "capacity": "35000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1003262579008012288",
+      "short_id": "912462x1591x0",
+      "chan_point": "",
+      "capacity": "23435742",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "878129359718776832",
+      "short_id": "798654x2273x0",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017261560968511489",
+      "short_id": "925194x304x1",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "945606388268924931",
+      "short_id": "860024x1564x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997393385983377409",
+      "short_id": "907124x2269x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012331350815997952",
+      "short_id": "920710x97x0",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035050559635062785",
+      "short_id": "941373x926x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1022599689966125057",
+      "short_id": "930049x987x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "979044735880921089",
+      "short_id": "890436x1382x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017739848532623361",
+      "short_id": "925629x396x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026939462323208193",
+      "short_id": "933996x411x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "893379585871446019",
+      "short_id": "812524x372x3",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034597560931450881",
+      "short_id": "940961x2254x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "919902005446377482",
+      "short_id": "836646x1741x10",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031514530321727489",
+      "short_id": "938157x2171x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031588197612388353",
+      "short_id": "938224x2348x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016063093367898112",
+      "short_id": "924104x1428x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021043880971993088",
+      "short_id": "928634x364x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1022974623395086337",
+      "short_id": "930390x436x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027312196818698240",
+      "short_id": "934335x1230x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027352878869184513",
+      "short_id": "934372x3065x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027355077769756673",
+      "short_id": "934374x1193x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027356177326931968",
+      "short_id": "934375x1888x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028263274434461697",
+      "short_id": "935200x2111x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028791039889965057",
+      "short_id": "935680x191x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028964762739671040",
+      "short_id": "935838x382x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031428768283820033",
+      "short_id": "938079x173x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033133011412123649",
+      "short_id": "939629x1779x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033594806271148032",
+      "short_id": "940049x1403x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997075627063181315",
+      "short_id": "906835x1357x3",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "811119623527333891",
+      "short_id": "737709x1714x3",
+      "chan_point": "",
+      "capacity": "30000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "815858518705963009",
+      "short_id": "742019x2674x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "938794913653456897",
+      "short_id": "853829x322x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1000932713837428737",
+      "short_id": "910343x1113x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020994403176087553",
+      "short_id": "928589x3833x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1014309372288303105",
+      "short_id": "922509x920x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023435318831480833",
+      "short_id": "930809x1418x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "971721988459659265",
+      "short_id": "883776x1683x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017250566013779969",
+      "short_id": "925184x2769x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002630359857430528",
+      "short_id": "911887x2131x0",
+      "chan_point": "",
+      "capacity": "175000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996254291888308234",
+      "short_id": "906088x1526x10",
+      "chan_point": "",
+      "capacity": "153000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1009452829457383425",
+      "short_id": "918092x1362x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027778389772468225",
+      "short_id": "934759x1590x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035433189828132865",
+      "short_id": "941721x3163x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002409358008713217",
+      "short_id": "911686x1955x1",
+      "chan_point": "",
+      "capacity": "125000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1008013568708509697",
+      "short_id": "916783x933x1",
+      "chan_point": "",
+      "capacity": "125000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1000461023355797505",
+      "short_id": "909914x1215x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011132883178684416",
+      "short_id": "919620x661x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024975734611312641",
+      "short_id": "932210x1255x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029791595498438657",
+      "short_id": "936590x606x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029814685286400001",
+      "short_id": "936611x1274x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030464496655138817",
+      "short_id": "937202x1224x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030650314063151104",
+      "short_id": "937371x353x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030916395873599488",
+      "short_id": "937613x300x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "836235767586291713",
+      "short_id": "760552x885x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "924667288911675393",
+      "short_id": "840980x2817x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "955918707865944065",
+      "short_id": "869403x2176x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997609989680463873",
+      "short_id": "907321x841x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017526543269167105",
+      "short_id": "925435x279x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017780530455183361",
+      "short_id": "925666x279x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028332543750569985",
+      "short_id": "935263x3386x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032652524807061505",
+      "short_id": "939192x1417x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034590963800276993",
+      "short_id": "940955x1317x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011348387544170497",
+      "short_id": "919816x1980x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011485826408316929",
+      "short_id": "919941x617x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029132988016951296",
+      "short_id": "935991x355x0",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029216551084032000",
+      "short_id": "936067x3153x0",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029328701081452545",
+      "short_id": "936169x275x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029473836601180161",
+      "short_id": "936301x44x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029654156529696769",
+      "short_id": "936465x373x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031479345939218432",
+      "short_id": "938125x2012x0",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031577202352848896",
+      "short_id": "938214x162x0",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1031661864851210241",
+      "short_id": "938291x1734x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1018081796674945025",
+      "short_id": "925940x794x1",
+      "chan_point": "",
+      "capacity": "55555555",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993436243566329857",
+      "short_id": "903525x1221x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993438442678059008",
+      "short_id": "903527x2571x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993827669708898304",
+      "short_id": "903881x1268x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993981601310769153",
+      "short_id": "904021x871x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "994082756361453569",
+      "short_id": "904113x580x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "994354335798001664",
+      "short_id": "904360x1564x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "994489575677165568",
+      "short_id": "904483x785x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "994981057541898241",
+      "short_id": "904930x3335x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "995154780271017984",
+      "short_id": "905088x1686x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011952019360907264",
+      "short_id": "920365x959x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012446799560704000",
+      "short_id": "920815x460x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012723876499488768",
+      "short_id": "921067x591x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023213217552859136",
+      "short_id": "930607x2489x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027288007525203969",
+      "short_id": "934313x655x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027880644376461312",
+      "short_id": "934852x1935x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028085153519894529",
+      "short_id": "935038x1640x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028137930143498241",
+      "short_id": "935086x2639x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028263274429743104",
+      "short_id": "935200x2039x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028264373857812481",
+      "short_id": "935201x764x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028419404983762944",
+      "short_id": "935342x557x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028628312185765889",
+      "short_id": "935532x446x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028894394178207744",
+      "short_id": "935774x3170x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028949369600671744",
+      "short_id": "935824x745x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032040096802340864",
+      "short_id": "938635x989x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032416129767505921",
+      "short_id": "938977x813x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032711898534838272",
+      "short_id": "939246x2941x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033100025968459776",
+      "short_id": "939599x332x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033223171260088320",
+      "short_id": "939711x169x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033288042462576640",
+      "short_id": "939770x420x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033380401431642113",
+      "short_id": "939854x303x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033594806262300673",
+      "short_id": "940049x1268x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034177547379671041",
+      "short_id": "940579x576x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034432634132955136",
+      "short_id": "940811x1425x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034860344128110592",
+      "short_id": "941200x997x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035444184752652288",
+      "short_id": "941731x237x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035447483316436992",
+      "short_id": "941734x678x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035772938717954048",
+      "short_id": "942030x63x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036363376539860992",
+      "short_id": "942567x1250x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "937501888166363137",
+      "short_id": "852653x3178x1",
+      "chan_point": "",
+      "capacity": "400000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "937509584627302401",
+      "short_id": "852660x1340x1",
+      "chan_point": "",
+      "capacity": "400000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021538661209669633",
+      "short_id": "929084x443x1",
+      "chan_point": "",
+      "capacity": "300000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025463917756612609",
+      "short_id": "932654x989x1",
+      "chan_point": "",
+      "capacity": "220000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "845631094449307649",
+      "short_id": "769097x941x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002999795706429441",
+      "short_id": "912223x1247x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026849302375235585",
+      "short_id": "933914x495x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "929033449568272385",
+      "short_id": "844951x2553x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027071403888672768",
+      "short_id": "934116x3007x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "819191138325692418",
+      "short_id": "745050x781x2",
+      "chan_point": "",
+      "capacity": "60000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012021288622358529",
+      "short_id": "920428x1400x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "811119623527333901",
+      "short_id": "737709x1714x13",
+      "chan_point": "",
+      "capacity": "40000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1010037769605742593",
+      "short_id": "918624x788x1",
+      "chan_point": "",
+      "capacity": "39999999",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016041103097331713",
+      "short_id": "924084x848x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1015765125649399809",
+      "short_id": "923833x400x1",
+      "chan_point": "",
+      "capacity": "160000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996132246179479553",
+      "short_id": "905977x2775x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021952077567819777",
+      "short_id": "929460x231x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1001371418998341633",
+      "short_id": "910742x1440x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1019582630157615105",
+      "short_id": "927305x2484x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021787151032451073",
+      "short_id": "929310x3417x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1008227973524488193",
+      "short_id": "916978x1674x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034557978492600320",
+      "short_id": "940925x1945x0",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032579956986740737",
+      "short_id": "939126x610x1",
+      "chan_point": "",
+      "capacity": "10101011",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1015294534678872064",
+      "short_id": "923405x494x0",
+      "chan_point": "",
+      "capacity": "3000000",
+      "node1_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037196806329073665",
+      "short_id": "943325x874x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "998286189311557634",
+      "short_id": "907936x536x2",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002999795709050881",
+      "short_id": "912223x1287x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "952889553458561026",
+      "short_id": "866648x4116x2",
+      "chan_point": "",
+      "capacity": "68000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1000708413527687170",
+      "short_id": "910139x2064x2",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036820773496881152",
+      "short_id": "942983x3079x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "919902005446377474",
+      "short_id": "836646x1741x2",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1008295043639279621",
+      "short_id": "917039x232x5",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "874539454236000256",
+      "short_id": "795389x1997x0",
+      "chan_point": "",
+      "capacity": "30000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1014821744664051713",
+      "short_id": "922975x267x1",
+      "chan_point": "",
+      "capacity": "25100000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012016890573815812",
+      "short_id": "920424x1369x4",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1008575419160264705",
+      "short_id": "917294x1085x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "927264335301640192",
+      "short_id": "843342x1675x0",
+      "chan_point": "",
+      "capacity": "5941091",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1019953165438681089",
+      "short_id": "927642x386x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1022515027608731649",
+      "short_id": "929972x1566x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021982863916531713",
+      "short_id": "929488x584x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030632721944412161",
+      "short_id": "937355x1380x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033296838544326657",
+      "short_id": "939778x248x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034468917959262208",
+      "short_id": "940844x549x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "952818085178769408",
+      "short_id": "866583x3750x0",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "993366974296686595",
+      "short_id": "903462x655x3",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035161610333650944",
+      "short_id": "941474x1295x0",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1007851940684103681",
+      "short_id": "916636x3754x1",
+      "chan_point": "",
+      "capacity": "14000412",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027333087648219138",
+      "short_id": "934354x2887x2",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027333087648219139",
+      "short_id": "934354x2887x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1033978535749943299",
+      "short_id": "940398x193x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997288932395778048",
+      "short_id": "907029x2529x0",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "999494552730075137",
+      "short_id": "909035x2666x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020961417763160065",
+      "short_id": "928559x2855x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036731712866091009",
+      "short_id": "942902x196x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1036923027924713473",
+      "short_id": "943076x736x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037134134144991232",
+      "short_id": "943268x549x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037157223870627840",
+      "short_id": "943289x266x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1007111969154465793",
+      "short_id": "915963x639x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023132953048907776",
+      "short_id": "930534x122x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024076334042906625",
+      "short_id": "931392x387x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027270415309930497",
+      "short_id": "934297x209x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "838269864130576394",
+      "short_id": "762402x1387x10",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "999001971364724736",
+      "short_id": "908587x284x0",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "961680148708392960",
+      "short_id": "874643x847x0",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "970847876625596417",
+      "short_id": "882981x310x1",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029758610127716353",
+      "short_id": "936560x272x1",
+      "chan_point": "",
+      "capacity": "16000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "985269071253012484",
+      "short_id": "896097x2103x4",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "715544575268356096",
+      "short_id": "650784x1492x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1005067977021652993",
+      "short_id": "914104x383x1",
+      "chan_point": "",
+      "capacity": "8000000",
+      "node1_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "991191040779419649",
+      "short_id": "901483x565x1",
+      "chan_point": "",
+      "capacity": "200000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "998286189311557633",
+      "short_id": "907936x536x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997081124554407940",
+      "short_id": "906840x336x4",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "942553044460306433",
+      "short_id": "857247x1285x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "973869334615031808",
+      "short_id": "885729x864x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "796998595593502721",
+      "short_id": "724866x214x1",
+      "chan_point": "",
+      "capacity": "15000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "988404878383579138",
+      "short_id": "898949x1617x2",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1015348410963722241",
+      "short_id": "923454x3776x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "948404645267701771",
+      "short_id": "862569x131x11",
+      "chan_point": "",
+      "capacity": "92229148",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996254291888308232",
+      "short_id": "906088x1526x8",
+      "chan_point": "",
+      "capacity": "85000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034600859346010113",
+      "short_id": "940964x418x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037329847265198081",
+      "short_id": "943446x1319x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1039748772843552768",
+      "short_id": "945646x1277x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996254291888308233",
+      "short_id": "906088x1526x9",
+      "chan_point": "",
+      "capacity": "34000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "984485119446220800",
+      "short_id": "895384x1856x0",
+      "chan_point": "",
+      "capacity": "33464052",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1016206029845889025",
+      "short_id": "924234x915x1",
+      "chan_point": "",
+      "capacity": "25252525",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "847479373550911489",
+      "short_id": "770778x1785x1",
+      "chan_point": "",
+      "capacity": "16777215",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029080211444858881",
+      "short_id": "935943x142x1",
+      "chan_point": "",
+      "capacity": "15000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "879715954870648832",
+      "short_id": "800097x335x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "966292600029577219",
+      "short_id": "878838x1498x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "936995013266309120",
+      "short_id": "852192x2573x0",
+      "chan_point": "",
+      "capacity": "6749324",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1043997285786779649",
+      "short_id": "949510x1483x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1046048974500659201",
+      "short_id": "951376x1734x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1037888399298854913",
+      "short_id": "943954x3253x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1041837844884029441",
+      "short_id": "947546x479x1",
+      "chan_point": "",
+      "capacity": "100000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1041719097775489025",
+      "short_id": "947438x2726x1",
+      "chan_point": "",
+      "capacity": "75000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1042940655085092864",
+      "short_id": "948549x1065x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1044254571428380673",
+      "short_id": "949744x273x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1045774096521297921",
+      "short_id": "951126x629x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "928256094806278144",
+      "short_id": "844244x1925x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028349036228902913",
+      "short_id": "935278x394x1",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034881234979913729",
+      "short_id": "941219x2994x1",
+      "chan_point": "",
+      "capacity": "10101011",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "985269071253012486",
+      "short_id": "896097x2103x6",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1024758031323430912",
+      "short_id": "932012x1475x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "864742805618032640",
+      "short_id": "786479x1776x0",
+      "chan_point": "",
+      "capacity": "6000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "891540102955728897",
+      "short_id": "810851x945x1",
+      "chan_point": "",
+      "capacity": "3000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "875862166622896128",
+      "short_id": "796592x451x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "997081124554407938",
+      "short_id": "906840x336x2",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1011003140775870465",
+      "short_id": "919502x192x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "921524884595081219",
+      "short_id": "838122x1529x3",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028301757252960257",
+      "short_id": "935235x761x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "934872955704442881",
+      "short_id": "850262x738x1",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1026565628409741313",
+      "short_id": "933656x1021x1",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1006328017355603969",
+      "short_id": "915250x513x1",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002563289569492993",
+      "short_id": "911826x931x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1008641389805043715",
+      "short_id": "917354x278x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "805806783260459009",
+      "short_id": "732877x471x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1027892739051225089",
+      "short_id": "934863x2650x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029059320760893440",
+      "short_id": "935924x706x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029451846385336320",
+      "short_id": "936281x299x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029793794523332609",
+      "short_id": "936592x631x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "922944354095988742",
+      "short_id": "839413x1368x6",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021145036073336833",
+      "short_id": "928726x846x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028289662652973059",
+      "short_id": "935224x1187x3",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "811119623527333902",
+      "short_id": "737709x1714x14",
+      "chan_point": "",
+      "capacity": "40000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "829339630716649475",
+      "short_id": "754280x1797x3",
+      "chan_point": "",
+      "capacity": "30000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "807118500654940164",
+      "short_id": "734070x815x4",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1000486312162492417",
+      "short_id": "909937x1814x1",
+      "chan_point": "",
+      "capacity": "10101011",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "800050839926603777",
+      "short_id": "727642x1044x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "800147596994805760",
+      "short_id": "727730x1730x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "936598089544630272",
+      "short_id": "851831x2206x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "796997496188370944",
+      "short_id": "724865x1839x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023999368249671681",
+      "short_id": "931322x703x1",
+      "chan_point": "",
+      "capacity": "500000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1003853016718573569",
+      "short_id": "912999x1079x1",
+      "chan_point": "",
+      "capacity": "150000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023088972581568512",
+      "short_id": "930494x88x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1014621633598586881",
+      "short_id": "922793x1042x1",
+      "chan_point": "",
+      "capacity": "25252525",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "995611077539201025",
+      "short_id": "905503x811x1",
+      "chan_point": "",
+      "capacity": "16000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1009070199392043008",
+      "short_id": "917744x1074x0",
+      "chan_point": "",
+      "capacity": "16000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1017240670354669569",
+      "short_id": "925175x1938x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028113740919668736",
+      "short_id": "935064x3127x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1028894394161102848",
+      "short_id": "935774x2909x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029216551085604864",
+      "short_id": "936067x3177x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029563996703555584",
+      "short_id": "936383x2316x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1029988408113692672",
+      "short_id": "936769x1123x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1030366640243605504",
+      "short_id": "937113x3106x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "975767091705872385",
+      "short_id": "887455x1189x1",
+      "chan_point": "",
+      "capacity": "25000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "926908093533519872",
+      "short_id": "843018x1664x0",
+      "chan_point": "",
+      "capacity": "13003939",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "909205956270489601",
+      "short_id": "826918x812x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "975435039267815425",
+      "short_id": "887153x2311x1",
+      "chan_point": "",
+      "capacity": "20000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "990517040312483841",
+      "short_id": "900870x3020x1",
+      "chan_point": "",
+      "capacity": "10101012",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020950422603038721",
+      "short_id": "928549x2186x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021333052591702017",
+      "short_id": "928897x1304x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1038733923535749121",
+      "short_id": "944723x127x1",
+      "chan_point": "",
+      "capacity": "5500000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "909434654836391937",
+      "short_id": "827126x3060x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "961749418107797504",
+      "short_id": "874706x3393x0",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1012585338104446977",
+      "short_id": "920941x1660x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1020378676583858177",
+      "short_id": "928029x2602x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1034863642773422080",
+      "short_id": "941203x2682x0",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1035425493166718977",
+      "short_id": "941714x1942x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025866339076603905",
+      "short_id": "933020x1969x1",
+      "chan_point": "",
+      "capacity": "4000000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "962910502190645249",
+      "short_id": "875762x401x1",
+      "chan_point": "",
+      "capacity": "1050000",
+      "node1_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node2_pub": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025008719924297729",
+      "short_id": "932240x708x1",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1032367751256342528",
+      "short_id": "938933x820x0",
+      "chan_point": "",
+      "capacity": "50000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "896469213703766016",
+      "short_id": "815334x2787x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "975292102802604034",
+      "short_id": "887023x3019x2",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "953588842836197377",
+      "short_id": "867284x3847x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "975292102802604035",
+      "short_id": "887023x3019x3",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "980508185950158849",
+      "short_id": "891767x2796x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1009439635391315969",
+      "short_id": "918080x2483x1",
+      "chan_point": "",
+      "capacity": "9000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "988004656106635264",
+      "short_id": "898585x939x0",
+      "chan_point": "",
+      "capacity": "7500000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "987473592026988545",
+      "short_id": "898102x1497x1",
+      "chan_point": "",
+      "capacity": "5050505",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "918979515137785856",
+      "short_id": "835807x934x0",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "725100430908850176",
+      "short_id": "659475x2766x0",
+      "chan_point": "",
+      "capacity": "4000000",
+      "node1_pub": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "996421417640067072",
+      "short_id": "906240x1287x0",
+      "chan_point": "",
+      "capacity": "22298472",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "928126352476274690",
+      "short_id": "844126x2567x2",
+      "chan_point": "",
+      "capacity": "15000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "925602973349969920",
+      "short_id": "841831x3474x0",
+      "chan_point": "",
+      "capacity": "11580425",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "948183643525808128",
+      "short_id": "862368x1585x0",
+      "chan_point": "",
+      "capacity": "11017712",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "939372157364011008",
+      "short_id": "854354x1939x0",
+      "chan_point": "",
+      "capacity": "10734743",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "987488985244106752",
+      "short_id": "898116x2326x0",
+      "chan_point": "",
+      "capacity": "10074534",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "928126352476274688",
+      "short_id": "844126x2567x0",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1045263923196198913",
+      "short_id": "950662x1700x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "983198690726969346",
+      "short_id": "894214x105x2",
+      "chan_point": "",
+      "capacity": "9899950",
+      "node1_pub": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "node2_pub": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1001497862928793601",
+      "short_id": "910857x2863x1",
+      "chan_point": "",
+      "capacity": "22222222",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1002524806769082369",
+      "short_id": "911791x2557x1",
+      "chan_point": "",
+      "capacity": "22222222",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1005503383762698241",
+      "short_id": "914500x2465x1",
+      "chan_point": "",
+      "capacity": "22222222",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1044781237570830337",
+      "short_id": "950223x1383x1",
+      "chan_point": "",
+      "capacity": "10101012",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1043966499576676353",
+      "short_id": "949482x3245x1",
+      "chan_point": "",
+      "capacity": "10101012",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "933352331105271809",
+      "short_id": "848879x464x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "981492248948703233",
+      "short_id": "892662x4195x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1023640927443419137",
+      "short_id": "930996x465x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "913539131634155521",
+      "short_id": "830859x1401x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1013650764796264449",
+      "short_id": "921910x508x1",
+      "chan_point": "",
+      "capacity": "5000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "904515439823814656",
+      "short_id": "822652x3214x0",
+      "chan_point": "",
+      "capacity": "4000000",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021986162449580033",
+      "short_id": "929491x556x1",
+      "chan_point": "",
+      "capacity": "2222222",
+      "node1_pub": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "node2_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1021125244999434241",
+      "short_id": "928708x2912x1",
+      "chan_point": "",
+      "capacity": "1515151",
+      "node1_pub": "0306d727c50c0e14ae9a0d0fe7e8e84fb5c08969d71e7e79fccdef22a78c3615ca",
+      "node2_pub": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "909832677902647297",
+      "short_id": "827488x878x1",
+      "chan_point": "",
+      "capacity": "10000000",
+      "node1_pub": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "node2_pub": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "995802392618008576",
+      "short_id": "905677x1659x0",
+      "chan_point": "",
+      "capacity": "2500000",
+      "node1_pub": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "node2_pub": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1009442933793685504",
+      "short_id": "918083x461x0",
+      "chan_point": "",
+      "capacity": "2000000",
+      "node1_pub": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "node2_pub": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "node1_policy": null,
+      "node2_policy": null
+    },
+    {
+      "channel_id": "1025864140078710784",
+      "short_id": "933018x2356x0",
+      "chan_point": "",
+      "capacity": "1000000",
+      "node1_pub": "023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d62469060a2b2867b77f",
+      "node2_pub": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "node1_policy": null,
+      "node2_policy": null
+    }
+  ]
+}
