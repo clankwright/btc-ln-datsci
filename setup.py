@@ -4,7 +4,7 @@ setup(
     name="lngraph",
     version="0.1.0",
     description="Data-science platform for analyzing the public Lightning Network channel graph",
-    author="toadlyBroodle",
+    author="clankwright",
     license="MIT",
     packages=find_packages(),
     python_requires=">=3.10",
